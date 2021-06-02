@@ -1,0 +1,5 @@
+.vscode/*
+*.vcxproj
+*.vcxproj.*
+*.sln
+*/.vscode/*
